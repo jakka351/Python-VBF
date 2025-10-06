@@ -1,6 +1,8 @@
 # Python-VBF
 Tkinter GUI to unpack and extract a Ford VBF file.
 
+<img width="1920" height="1039" alt="image" src="https://github.com/user-attachments/assets/6d05c930-def1-4466-8418-4951f9834287" />
+
 ## Usage
 `python python-vbf.py`
 
